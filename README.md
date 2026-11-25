@@ -7,11 +7,8 @@ Junyi Ma, [Zhangshuo Qi](https://github.com/QiZS-BIT), Erhang Zhang, Mingjie Li,
 
 ![image](https://github.com/IRMVLab/MemHand/blob/main/assets/teaser.png)
 
-MemHand reconstructs the metric world-space motion of both hands from egocentric video. It keeps a short-term memory of each occlusion and each out-of-sight event, and a long-term memory of the metric scale, so that every frame can draw on temporal context of the length it actually needs.
+MemHand reconstructs the metric world-space motion of both hands from egocentric video. It keeps a short-term memory of each occlusion and out-of-sight event, and a long-term memory of the metric scale, so that every frame can draw on temporal context of the length it actually needs.
 
-The code will be released soon :smile:.
-
-If you find this project useful for your research, please consider citing:
 ```
 @article{ma2026memhand,
   title = {MemHand: Memory-Enhanced World-Space Hand Motion Reconstruction from Egocentric Videos},
