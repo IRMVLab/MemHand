@@ -3,7 +3,7 @@ This is the official implementation for our paper:
 
 MemHand: Memory-Enhanced World-Space Hand Motion Reconstruction from Egocentric Videos [arXiv](https://arxiv.org/abs/2611.32876) [Project Page](https://irmvlab.github.io/memhand.github.io/)
 
-Junyi Ma, Zhangshuo Qi, Erhang Zhang, Mingjie Li, Hesheng Wang*
+Junyi Ma<sup>†</sup>, Zhangshuo Qi<sup>†</sup>, Erhang Zhang, Mingjie Li, Hesheng Wang<sup>*</sup>
 
 ![image](https://github.com/IRMVLab/MemHand/blob/master/assets/teaser.png)
 
