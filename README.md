@@ -5,7 +5,7 @@ MemHand: Memory-Enhanced World-Space Hand Motion Reconstruction from Egocentric 
 
 Junyi Ma, Zhangshuo Qi, Erhang Zhang, Mingjie Li, Hesheng Wang*
 
-![image](https://github.com/IRMVLab/MemHand/blob/main/assets/teaser.png)
+![image](https://github.com/IRMVLab/MemHand/blob/master/assets/teaser.png)
 
 MemHand reconstructs the metric world-space motion of both hands from egocentric video. It keeps a short-term memory of each occlusion and out-of-sight event, and a long-term memory of the metric scale, so that every frame can draw on temporal context of the length it actually needs.
 
